@@ -1,7 +1,7 @@
 # Image Acquisition using Web Camera
 
-### Name : T Ajay
-### Register No : 212223230007
+### Name : L yagnesh kumar reddy
+### Register No : 212223100024
 
 ## Aim :
  
